@@ -1,0 +1,12 @@
+# Generated project and build output
+/build/
+/.Xil/
+
+# Editor and Python scratch
+.vscode/
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
